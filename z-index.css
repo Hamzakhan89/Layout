@@ -1,0 +1,13 @@
+h1{
+    position: fixed;
+    left: 500px;
+    background-color: brown;
+    z-index: 10;
+    width: 100%;
+    top: 0px;
+}
+p{
+position: relative;
+left: 70px;
+top: 70px;
+}

@@ -1,0 +1,10 @@
+p{
+    float: left;
+    margin: 5px;
+    background-color: darkgray;
+    width:450px;
+}
+div{
+    border: 1px solid red;
+    overflow: auto;
+}
